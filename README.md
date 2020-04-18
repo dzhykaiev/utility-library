@@ -1,1 +1,1 @@
-![Unit testing](https://github.com/dzhykaiev/utility-library/workflows/Unit%20testing/badge.svg?branch=master)
+[![Unit testing](https://github.com/dzhykaiev/utility-library/workflows/Unit%20testing/badge.svg?branch=master)](https://github.com/dzhykaiev/utility-library/actions?query=workflow%3A%22Unit+testing%22)
