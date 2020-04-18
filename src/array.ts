@@ -50,3 +50,15 @@ export const dropRight = <T>(array: T[], n: number = 1) => {
   n ? array.splice(-n) : null;
   return array;
 };
+
+// TODO: add dropRightWhile method
+// TODO: add dropWhile method
+
+export const fill = <T>(
+  array: T[],
+  value: any,
+  start = 0,
+  end = array.length
+) => {
+  return array.fill(value, start, end);
+};
