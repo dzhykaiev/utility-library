@@ -21,7 +21,8 @@
     "start": "webpack-dev-server --open",
     "build": "webpack",
     "watch": "webpack --watch",
-    "test": "jest --watchAll --config=jest.config.js"
+    "test": "jest --config=jest.config.js",
+    "test:watch": "jest --watchAll --config=jest.config.js"
   },
   "repository": {
     "type": "git",
